@@ -133,7 +133,14 @@ The final dashboard was built in Power BI and divided into three analytical laye
 ![Dashboard 3](dashboard_03_operational_prioritization.png)
 
 ---
+## Key Business Insights
 
+- Maranhão showed the highest operational impact (100% relative score)
+- Alagoas presented the highest operational criticality
+- Rio de Janeiro showed the largest scale opportunity with 12,695 orders
+- Deliveries above 30 days reduced customer review scores from 4.3 to 2.2
+
+---
 ## Author
 
 Lia Stiegler  
