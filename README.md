@@ -120,9 +120,17 @@ Examples:
 
 The final dashboard was built in Power BI and divided into three analytical layers:
 
-1. Business Growth & Customer Experience  
-2. Logistics Diagnosis  
-3. Operational Prioritization  
+### 1. Business Overview
+
+![Dashboard 1](dashboard_01_business_overview.png)
+
+### 2. Logistics Diagnosis
+
+![Dashboard 2](dashboard_02_logistics_diagnosis.png)
+
+### 3. Operational Prioritization
+
+![Dashboard 3](dashboard_03_operational_prioritization.png)
 
 ---
 
